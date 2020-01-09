@@ -2,6 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
+// Things I need to revise/learn:
+//  - DateTime class
+//  - Arrays and Lists
+//  - String manipulation
+//  - Methods
+//  - Interfaces
+//  - Any other advanced topics found on Udemy course
+
 namespace PractiseProject
 {
     /*This is a standard class that demonstrates the concept of OOP*/

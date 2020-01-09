@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+// Things learnt:
+//  - Filling an array when creating it
+//  - Importance of order when it comes to organising logic
+
 namespace PractiseProject
 {
     class PrintingNumbersQuiz

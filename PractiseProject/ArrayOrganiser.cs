@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+// Things learnt:
+//  - How to use a break statement
+//  - How to sort an array
+
 namespace PractiseProject
 {
     class ArrayOrganiser

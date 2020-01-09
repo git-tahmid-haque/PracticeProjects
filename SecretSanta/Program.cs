@@ -1,6 +1,13 @@
 ﻿using System;
 using System.Threading;
 
+// Things learnt:
+//  - Array.Sort using second array of numbers (not completely sure how it works though)
+//  - How to fully use the Int.TryParse method
+//  - How to use the Random class
+//  - That you can recall a method from within that method's body
+//  - To be careful with when you initialise variables and objects within the application
+
 namespace SecretSanta
 {
     class Program
@@ -47,7 +54,6 @@ namespace SecretSanta
 
                 for (int i = 0; i < numberOfParticipants; i++)
                 {
-                    //listOfSecretSantas[random.Next(0, numberOfParticipants)] = listOfNames[i];
                     listOfSecretSantas[i] = listOfNames[i];
                     order[i] = random.NextDouble();
                 }

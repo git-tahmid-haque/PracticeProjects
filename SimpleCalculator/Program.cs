@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// Things learnt:
+//  - Better understanding of switch statement
+//  - Further use of the Int.TryParse method
+
 namespace SimpleCalculator
 {
     class Program

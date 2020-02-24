@@ -38,7 +38,6 @@ namespace ValuesAndReference
             c.text = "changed text";
             d[0] = 2;
             e[0] = "yoyo";
-
         }
     }
 }
